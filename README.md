@@ -3,7 +3,7 @@ Instagram bot for likes uses selenium and webdriver for chrome
 
 To launch this bot you need:
 
-Selenium:    Using pip, you can install selenium like this:
+Selenium:    Using pip, you can install selenium like this(for ex. in pycharm console):
 
 pip install selenium
 
